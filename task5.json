@@ -1,0 +1,1894 @@
+[
+    {
+        "movie_name": "Toy Story 4",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JoshCooley"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Spider-Man: Into the Spider-Verse",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BobPersichetti",
+            "PeterRamsey",
+            "RodneyRothman"
+        ],
+        "runtime": 117
+    },
+    {
+        "movie_name": "Inside Out",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "runtime": 95
+    },
+    {
+        "movie_name": "Coco",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Music",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "runtime": 109
+    },
+    {
+        "movie_name": "Snow White and the Seven Dwarfs",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidHand"
+        ],
+        "runtime": 80
+    },
+    {
+        "movie_name": "Soul",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Incredibles 2",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "runtime": 118
+    },
+    {
+        "movie_name": "Zootopia",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ByronHoward",
+            "RichMoore"
+        ],
+        "runtime": 108
+    },
+    {
+        "movie_name": "Paddington 2",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English",
+            "(United",
+            "Kingdom)"
+        ],
+        "director": [
+            "PaulKing"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "Up",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter",
+            "BobPeterson"
+        ],
+        "runtime": 89
+    },
+    {
+        "movie_name": "Toy Story 3",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "LeeUnkrich"
+        ],
+        "runtime": 102
+    },
+    {
+        "movie_name": "Toy Story 2",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AshBrannon",
+            "JohnLasseter",
+            "LeeUnkrich"
+        ],
+        "runtime": 92
+    },
+    {
+        "movie_name": "Finding Dory",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "Finding Nemo",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Pinocchio",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Fantasy",
+            "Kids&family",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BenSharpsteen",
+            "HamiltonLuske"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "The LEGO Movie",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PhilLord",
+            "ChrisMiller"
+        ],
+        "runtime": 95
+    },
+    {
+        "movie_name": "Moana",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnMusker",
+            "RonClements"
+        ],
+        "runtime": 113
+    },
+    {
+        "movie_name": "Toy Story",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnLasseter"
+        ],
+        "runtime": 80
+    },
+    {
+        "movie_name": "Isle of Dogs",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WesAnderson"
+        ],
+        "runtime": 101
+    },
+    {
+        "movie_name": "Kubo and the Two Strings",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TravisKnight"
+        ],
+        "runtime": 102
+    },
+    {
+        "movie_name": "Wolfwalkers",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Fantasy",
+            "Adventure",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TommMoore",
+            "RossStewart"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "How to Train Your Dragon",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChristopherSanders",
+            "DeanDeBlois"
+        ],
+        "runtime": 98
+    },
+    {
+        "movie_name": "Shaun the Sheep Movie",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "MarkBurton",
+            "RichardStarzak"
+        ],
+        "runtime": 85
+    },
+    {
+        "movie_name": "WALL-E",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-fi",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewStanton"
+        ],
+        "runtime": 97
+    },
+    {
+        "movie_name": "Ratatouille",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "runtime": 111
+    },
+    {
+        "movie_name": "Dumbo",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BenSharpsteen"
+        ],
+        "runtime": 64
+    },
+    {
+        "movie_name": "Raya and the Last Dragon",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonHall",
+            "CarlosL\u00f3pezEstrada"
+        ],
+        "runtime": 108
+    },
+    {
+        "movie_name": "The Incredibles",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "runtime": 115
+    },
+    {
+        "movie_name": "My Life as a Zucchini",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "language": [
+            "French",
+            "(France)"
+        ],
+        "director": [
+            "ClaudeBarras"
+        ],
+        "runtime": 66
+    },
+    {
+        "movie_name": "Only Yesterday",
+        "genre": [
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "IsaoTakahata"
+        ],
+        "runtime": 118
+    },
+    {
+        "movie_name": "The LEGO Batman Movie",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisMcKay"
+        ],
+        "runtime": 106
+    },
+    {
+        "movie_name": "Chicken Run",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeterLord",
+            "NickPark"
+        ],
+        "runtime": 85
+    },
+    {
+        "movie_name": "One Hundred and One Dalmatians",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WolfgangReitherman",
+            "HamiltonLuske",
+            "ClydeGeronimi"
+        ],
+        "runtime": 79
+    },
+    {
+        "movie_name": "Beauty and the Beast",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GaryTrousdale",
+            "KirkWise"
+        ],
+        "runtime": 84
+    },
+    {
+        "movie_name": "The Nightmare Before Christmas",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Other",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "runtime": 75
+    },
+    {
+        "movie_name": "Onward",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DanScanlon"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "Monsters, Inc.",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeteDocter"
+        ],
+        "runtime": 92
+    },
+    {
+        "movie_name": "Anomalisa",
+        "rating": [
+            "R"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "CharlieKaufman",
+            "DukeJohnson"
+        ],
+        "runtime": 90
+    },
+    {
+        "movie_name": "Spirited Away",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki",
+            "KirkWise"
+        ],
+        "runtime": 125
+    },
+    {
+        "movie_name": "Grave of the Fireflies",
+        "genre": [
+            "War",
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "IsaoTakahata"
+        ],
+        "runtime": 88
+    },
+    {
+        "movie_name": "The Lion King",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Musical"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RogerAllers",
+            "RobMinkoff"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "Song of the Sea",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TommMoore"
+        ],
+        "runtime": 94
+    },
+    {
+        "movie_name": "Your Name",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Anime",
+            "Romance",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "MakotoShinkai"
+        ],
+        "runtime": 106
+    },
+    {
+        "movie_name": "The Iron Giant",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "BradBird"
+        ],
+        "runtime": 86
+    },
+    {
+        "movie_name": "Tower",
+        "genre": [
+            "Documentary"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "KeithMaitland"
+        ],
+        "runtime": 98
+    },
+    {
+        "movie_name": "Fantasia",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JamesAlgar",
+            "SamuelArmstrong",
+            "FordBeebe",
+            "NormanFerguson",
+            "JimHandley",
+            "T.Hee",
+            "WilfredJackson",
+            "HamiltonLuske",
+            "BillRoberts",
+            "PaulSatterfield"
+        ],
+        "runtime": 120
+    },
+    {
+        "movie_name": "Who Framed Roger Rabbit",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RobertZemeckis"
+        ],
+        "runtime": 104
+    },
+    {
+        "movie_name": "Waltz With Bashir",
+        "rating": [
+            "R"
+        ],
+        "genre": [
+            "Documentary",
+            "Animation"
+        ],
+        "language": [
+            "Hebrew"
+        ],
+        "director": [
+            "AriFolman"
+        ],
+        "runtime": 90
+    },
+    {
+        "movie_name": "How to Train Your Dragon: The Hidden World",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DeanDeBlois"
+        ],
+        "runtime": 104
+    },
+    {
+        "movie_name": "Luca",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "EnricoCasarosa"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Persepolis",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "VincentParonnaud",
+            "MarjaneSatrapi"
+        ],
+        "runtime": 95
+    },
+    {
+        "movie_name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "director": [
+            "SteveBox"
+        ]
+    },
+    {
+        "movie_name": "Fantastic Mr. Fox",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "WesAnderson"
+        ],
+        "runtime": 88
+    },
+    {
+        "movie_name": "Yellow Submarine",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Musical"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GeorgeDunning"
+        ],
+        "runtime": 85
+    },
+    {
+        "movie_name": "Kiki's Delivery Service",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Anime"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "Ernest & C\u00e9lestine",
+        "director": [
+            "VincentPatar"
+        ]
+    },
+    {
+        "movie_name": "Aladdin",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RonClements",
+            "JohnMusker"
+        ],
+        "runtime": 90
+    },
+    {
+        "movie_name": "The Secret World of Arrietty",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Kids&family",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HiromasaYonebayashi",
+            "GaryRydstrom"
+        ],
+        "runtime": 95
+    },
+    {
+        "movie_name": "Ghost in the Shell",
+        "genre": [
+            "Sci-fi",
+            "Anime",
+            "Action"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "MamoruOshii"
+        ],
+        "runtime": 85
+    },
+    {
+        "movie_name": "Frozen",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisBuck",
+            "JenniferLee"
+        ],
+        "runtime": 102
+    },
+    {
+        "movie_name": "The Red Turtle",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation"
+        ],
+        "language": [
+            "Unknown",
+            "language"
+        ],
+        "director": [
+            "MichaelDudokdeWit"
+        ],
+        "runtime": 80
+    },
+    {
+        "movie_name": "Ralph Breaks the Internet",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PhilJohnston",
+            "RichMoore"
+        ],
+        "runtime": 112
+    },
+    {
+        "movie_name": "Long Way North",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "French",
+            "(France)"
+        ],
+        "director": [
+            "R\u00e9miChay\u00e9"
+        ],
+        "runtime": 81
+    },
+    {
+        "movie_name": "Coraline",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Big Hero 6",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-fi",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonHall",
+            "ChrisWilliams"
+        ],
+        "runtime": 102
+    },
+    {
+        "movie_name": "Liyana",
+        "genre": [
+            "Documentary"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AaronKopp",
+            "AmandaKopp"
+        ],
+        "runtime": 77
+    },
+    {
+        "movie_name": "I Lost My Body",
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "French",
+            "(France)"
+        ],
+        "director": [
+            "J\u00e9r\u00e9myClapin"
+        ],
+        "runtime": 81
+    },
+    {
+        "movie_name": "The Breadwinner",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "NoraTwomey"
+        ],
+        "runtime": 94
+    },
+    {
+        "movie_name": "A Shaun the Sheep Movie: Farmageddon",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Sci-fi",
+            "Kids&family"
+        ],
+        "language": [
+            "English",
+            "(United",
+            "Kingdom)"
+        ],
+        "director": [
+            "RichardPhelan",
+            "WillBecher"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "The Secret of NIMH",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DonBluth"
+        ],
+        "runtime": 82
+    },
+    {
+        "movie_name": "Bambi",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidHand"
+        ],
+        "runtime": 70
+    },
+    {
+        "movie_name": "The Little Mermaid",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "RonClements",
+            "JohnMusker"
+        ],
+        "runtime": 82
+    },
+    {
+        "movie_name": "How to Train Your Dragon 2",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DeanDeBlois",
+            "TomOwens"
+        ],
+        "runtime": 102
+    },
+    {
+        "movie_name": "The Triplets of Belleville",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "French",
+            "(Canada)"
+        ],
+        "director": [
+            "SylvainChomet"
+        ],
+        "runtime": 82
+    },
+    {
+        "movie_name": "Lady and the Tramp",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ClydeGeronimi",
+            "WilfredJackson",
+            "HamiltonLuske"
+        ],
+        "runtime": 75
+    },
+    {
+        "movie_name": "Princess Mononoke",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Adventure",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "runtime": 133
+    },
+    {
+        "movie_name": "My Neighbor Totoro",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "Arthur Christmas",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Other",
+            "Kids&family",
+            "Comedy",
+            "Animation"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SarahSmith"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Antz",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Romance",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "EricDarnell",
+            "TimJohnson"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "The LEGO Movie 2: The Second Part",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "MikeMitchell"
+        ],
+        "runtime": 107
+    },
+    {
+        "movie_name": "A Bug's Life",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "JohnLasseter",
+            "AndrewStanton"
+        ],
+        "runtime": 96
+    },
+    {
+        "movie_name": "Mary and Max",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AdamElliot"
+        ],
+        "runtime": 92
+    },
+    {
+        "movie_name": "Ponyo",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Anime",
+            "Fantasy"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki"
+        ],
+        "runtime": 100
+    },
+    {
+        "movie_name": "Klaus",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Other",
+            "Comedy",
+            "Animation",
+            "Adventure",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SergioPablos"
+        ],
+        "runtime": 98
+    },
+    {
+        "movie_name": "Teen Titans GO! to the Movies",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "PeterRidaMichail",
+            "AaronHorvath"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "Bolt",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisWilliams",
+            "ByronHoward"
+        ],
+        "runtime": 96
+    },
+    {
+        "movie_name": "Tangled",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Musical",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "NathanGreno",
+            "ByronHoward"
+        ],
+        "runtime": 101
+    },
+    {
+        "movie_name": "Shrek 2",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewAdamson",
+            "KellyAsbury",
+            "ConradVernon"
+        ],
+        "runtime": 92
+    },
+    {
+        "movie_name": "ParaNorman",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisButler",
+            "SamFell"
+        ],
+        "runtime": 96
+    },
+    {
+        "movie_name": "Frankenweenie",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "TimBurton"
+        ],
+        "runtime": 87
+    },
+    {
+        "movie_name": "Shrek",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "AndrewAdamson",
+            "VickyJenson"
+        ],
+        "runtime": 89
+    },
+    {
+        "movie_name": "James and the Giant Peach",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Animation",
+            "Kids&family",
+            "Fantasy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "HenrySelick"
+        ],
+        "runtime": 80
+    },
+    {
+        "movie_name": "Rango",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "GoreVerbinski"
+        ],
+        "runtime": 105
+    },
+    {
+        "movie_name": "The Wind Rises",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Biography",
+            "History",
+            "Anime",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HayaoMiyazaki",
+            "GaryRydstrom"
+        ],
+        "runtime": 126
+    },
+    {
+        "movie_name": "Missing Link",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Kids&family",
+            "Comedy",
+            "Animation",
+            "Adventure"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "ChrisButler"
+        ],
+        "runtime": 94
+    },
+    {
+        "movie_name": "The Simpsons Movie",
+        "rating": [
+            "PG-13"
+        ],
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "DavidSilverman"
+        ],
+        "runtime": 86
+    },
+    {
+        "movie_name": "Boy and the World",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family"
+        ],
+        "language": [
+            "Portuguese",
+            "(Brazil)"
+        ],
+        "director": [
+            "Al\u00eaAbreu"
+        ],
+        "runtime": 80
+    },
+    {
+        "movie_name": "The Peanuts Movie",
+        "rating": [
+            "G"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Kids&family",
+            "Comedy"
+        ],
+        "language": [
+            "English"
+        ],
+        "director": [
+            "SteveMartino"
+        ],
+        "runtime": 89
+    },
+    {
+        "movie_name": "When Marnie Was There",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Mystery&thriller",
+            "Anime",
+            "Kids&family",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "HiromasaYonebayashi"
+        ],
+        "runtime": 103
+    },
+    {
+        "movie_name": "Millennium Actress",
+        "rating": [
+            "PG"
+        ],
+        "genre": [
+            "Anime",
+            "Fantasy",
+            "Drama"
+        ],
+        "language": [
+            "Japanese"
+        ],
+        "director": [
+            "SatoshiKon"
+        ],
+        "runtime": 87
+    }
+]
